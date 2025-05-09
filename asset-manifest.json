@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bayside-ssp/static/css/main.12c77978.css",
+    "main.js": "/bayside-ssp/static/js/main.a4028220.js",
+    "static/media/bayside-logo.png": "/bayside-ssp/static/media/bayside-logo.741e2c49726f8f5c46f0.png",
+    "index.html": "/bayside-ssp/index.html",
+    "main.12c77978.css.map": "/bayside-ssp/static/css/main.12c77978.css.map",
+    "main.a4028220.js.map": "/bayside-ssp/static/js/main.a4028220.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12c77978.css",
+    "static/js/main.a4028220.js"
+  ]
+}
