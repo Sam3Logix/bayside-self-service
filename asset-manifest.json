@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bayside-ssp/static/css/main.12c77978.css",
-    "main.js": "/bayside-ssp/static/js/main.a4028220.js",
-    "static/media/bayside-logo.png": "/bayside-ssp/static/media/bayside-logo.741e2c49726f8f5c46f0.png",
-    "index.html": "/bayside-ssp/index.html",
-    "main.12c77978.css.map": "/bayside-ssp/static/css/main.12c77978.css.map",
-    "main.a4028220.js.map": "/bayside-ssp/static/js/main.a4028220.js.map"
+    "main.css": "/bayside-self-service/static/css/main.12c77978.css",
+    "main.js": "/bayside-self-service/static/js/main.dbed351e.js",
+    "static/media/bayside-logo.png": "/bayside-self-service/static/media/bayside-logo.741e2c49726f8f5c46f0.png",
+    "index.html": "/bayside-self-service/index.html",
+    "main.12c77978.css.map": "/bayside-self-service/static/css/main.12c77978.css.map",
+    "main.dbed351e.js.map": "/bayside-self-service/static/js/main.dbed351e.js.map"
   },
   "entrypoints": [
     "static/css/main.12c77978.css",
-    "static/js/main.a4028220.js"
+    "static/js/main.dbed351e.js"
   ]
 }
